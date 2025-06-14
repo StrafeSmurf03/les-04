@@ -1,0 +1,5 @@
+- src: https://github.com/StrafeSmurf03/ansible-role-apache.git
+  name: webserver
+
+- src: https://github.com/StrafeSmurf03/ansible-role-mysql.git
+  name: databaseserver
